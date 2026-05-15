@@ -1,5 +1,29 @@
 # Educational Design System
 
+<!-- portfolio-curation -->
+## Portfolio Overview
+Documentation-first design system for teaching materials, educational sites, and structured publishing workflows.
+
+**Live site:** https://kaw393939.github.io/educational-design-system/
+
+## What This Demonstrates
+- Reusable educational interfaces
+- content systems
+- governance
+
+## Stack
+TypeScript, design system tooling
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
+# Educational Design System
+
 ## Purpose
 
 This repository defines a documentation-first educational design system and publishing workflow.
@@ -397,3 +421,4 @@ Not completed:
 ## Immediate next implementation direction
 
 The next practical implementation step is Sprint 9: assemble the first new experiences from the phase-2 planning artifacts and add the visual draft/version workflow that those experiences need.
+
